@@ -18,6 +18,7 @@ It supports two different scheduling algorithms which are implemented and valida
 This repository includes Ethernet Frame Crafter & Capture (EFCC), a flexible FPGA-based frame generation and capture measurement tool for TSN research and developement. 
 EFCC is capable of generating multiple TSN flows with different characteristics, where the frame size, frame rate, and burst size are independently set for each flow. 
 In addition, it can record the arrival times of all the frames with a high-precision hardware clock without any loss of the arrival time records, even with the shortest frame size.
+EFFC is implemented and validated on an AMD Xilinx KC705 FPGA evaluation board.
 
 
 ## Publications
