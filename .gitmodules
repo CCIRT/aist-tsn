@@ -1,6 +1,0 @@
-[submodule "3rdparty/eth_switch"]
-	path = 3rdparty/eth_switch
-	url = https://github.com/mcjtag/eth_switch.git
-[submodule "3rdparty/plget"]
-	path = 3rdparty/plget
-	url = https://github.com/ikhorn/plget.git
