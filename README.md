@@ -8,7 +8,7 @@ We aim to provide an open platform that can be used as a reference design so sci
 
 ## Design
 ### [AIST TSN SWITCH](https://github.com/CCIRT/aist-tsn-switch)
-This repository introduces the hardware design of a reconfigurable architecture of an FPGA-based an L2 network switch supporting supporting Time Sensitive Networks (TSN). 
+This repository introduces the hardware design of a reconfigurable architecture of an FPGA-based an L2 network switch supporting Time Sensitive Networks (TSN). 
 It supports two different scheduling algorithms which are implemented and validated on an AMD Xilinx KC705 FPGA evaluation board:
 
 - L2 switch supporting Credit Based Shaper (CBS):
