@@ -32,7 +32,9 @@ AIST TSN Switch for Asynchronous Traffic Shaper (ATS):
 > Akram BEN AHMED, Takahiro HIROFUCHI, and Takaaki FUKAI, "Hardware design and Evaluation of an FPGA-based Network Switch Supporting Asynchronous Traffic Shaping for Time Sensitive Networking", IEEE Access, vol. 12, pp. 123149-123165, Aug 2024, doi: 10.1109/ACCESS.2024.3451448, https://ieeexplore.ieee.org/document/10658978
 
 AIST Ethernet Frame Crafter & Capture (EFCC):
-> Akram BEN AHMED, Takahiro HIROFUCHI, and Takaaki FUKAI, "EFCC: Ethernet Frame Crafter & Capture for TSN Research", The 50th IEEE Conference on Local Computer Networks (LCN2025), pp. 1-9, October 2025, doi: 10.1109/LCN65610.2025.11146312, https://ieeexplore.ieee.org/document/11146312, Best Paper Award Candidate🏆
+> Akram BEN AHMED, Takahiro HIROFUCHI, and Takaaki FUKAI, "EFCC: Ethernet Frame Crafter & Capture for TSN Research", The 50th IEEE Conference on Local Computer Networks (LCN2025), pp. 1-9, October 2025, doi: 10.1109/LCN65610.2025.11146312, https://ieeexplore.ieee.org/document/11146312
+> 
+> Best Paper Award Candidate🏆
 
 
 ## Contact
