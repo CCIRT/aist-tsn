@@ -26,7 +26,7 @@ EFFC is implemented and validated on an AMD Xilinx KC705 FPGA evaluation board.
 When using the provided designs in this repository, please refer to the following citations:
 
 AIST TSN Switch for Credit-based Shaper (CBS):
-> Akram BEN AHMED, Takahiro HIROFUCHI, and Takaaki FUKAI "FPGA-based Network Switch Architecture Supporting Credit Based Shaper for Time Sensitive Networks", The 29th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA2024), pp. 1-8, Sep 2024, 10.1109/ETFA61755.2024.10710853, https://ieeexplore.ieee.org/document/10710853
+> Akram BEN AHMED, Takahiro HIROFUCHI, and Takaaki FUKAI "FPGA-based Network Switch Architecture Supporting Credit Based Shaper for Time Sensitive Networks", The 29th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA2024), pp. 1-8, Sep 2024, doi: 10.1109/ETFA61755.2024.10710853, https://ieeexplore.ieee.org/document/10710853
 
 AIST TSN Switch for Asynchronous Traffic Shaper (ATS):
 > Akram BEN AHMED, Takahiro HIROFUCHI, and Takaaki FUKAI, "Hardware design and Evaluation of an FPGA-based Network Switch Supporting Asynchronous Traffic Shaping for Time Sensitive Networking", IEEE Access, vol. 12, pp. 123149-123165, Aug 2024, doi: 10.1109/ACCESS.2024.3451448, https://ieeexplore.ieee.org/document/10658978
