@@ -18,7 +18,7 @@ Supported switch configurations:
 [This repository](https://github.com/CCIRT/aist-tsn-efcc) provides Ethernet Frame Crafter & Capture (EFCC), a flexible FPGA-based frame generation and capture measurement tool for TSN research and development.
 EFCC is capable of generating multiple TSN flows with different characteristics, where the frame size, frame rate, and burst size are independently set for each flow.
 In addition, it can record the arrival times of all the frames with a high-precision hardware clock without any loss of the arrival time records, even with the shortest frame size.
-EFCC is implemented and validated on an AMD Xilinx KC705 FPGA evaluation board and AMD Alveo U250/U45N accelerator cards.
+EFCC is implemented and validated on an AMD Xilinx KC705 FPGA evaluation board and AMD Alveo U250/U45N accelerator cards. It supports GbE and 10GbE.
 
 ### AIST TSN Endpoint
 [This repository](https://github.com/CCIRT/aist-tsn-atsep) provides an implementation of a Time-Sensitive Networking (TSN) endpoint for Asynchronous Traffic Shaping (ATS). It supports network interface cards with transmit timing control, such as Intel i210 and i225 NICs. The implementation generates IEEE-compliant ATS flows based on the Committed Information Rate and Committed Burst Size. To the best of our knowledge, this is the first real-world implementation of an ATS endpoint.
