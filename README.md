@@ -8,7 +8,7 @@ We aim to provide an open platform that can be used as a reference design so sci
 
 ## Design
 ### AIST TSN Switch
-[This repository](https://github.com/CCIRT/aist-tsn-switch) provides the hardware design of a reconfigurable FPGA-based Layer-2 network switch supporting Time-Sensitive Networking (TSN). The switch supports two different scheduling algorithms, which have been implemented and validated on an AMD Xilinx KC705 FPGA evaluation board, a Digilent ZedBoard FPGA development board and AMD Alveo U250/U45N accelerator cards. To the best of our knowledge, this is the first open-source implementation of a Credit-Based Shaping (CBS) switch and the first real-world implementation of an Asynchronous Traffic Shaping (ATS) switch. It supports GbE and 10GbE.
+[This repository](https://github.com/CCIRT/aist-tsn-switch) provides the hardware design of a reconfigurable FPGA-based Layer-2 network switch supporting Time-Sensitive Networking (TSN). The switch supports two different scheduling algorithms, which have been implemented and validated on an AMD Xilinx KC705 FPGA evaluation board, a Digilent ZedBoard FPGA development board and an AMD Alveo U45N accelerator card. To the best of our knowledge, this is the first open-source implementation of a Credit-Based Shaping (CBS) switch and the first real-world implementation of an Asynchronous Traffic Shaping (ATS) switch. It supports GbE and 10GbE.
 
 Supported switch configurations:
 - Layer-2 switch supporting Credit-Based Shaping (CBS)
@@ -44,6 +44,8 @@ AIST TSN Endpoint Supporting Asynchronous Traffic Shaping (ATS)
 ## Contact
 
 The [Continuum Computing Architecture Research Group (CCARG)](https://www.ipri.aist.go.jp/ccarg/en/index.html), the Intelligent Platforms Research Institute, the National Institute of Advanced Industrial Science and Technology (AIST), Japan.
+
+Research Group Leader: Takahiro Hirofuchi, Ph.D.
 
 We are hiring postdocs and technical staffs. Collaborations are also welcome.
 
